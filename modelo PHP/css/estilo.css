@@ -16,10 +16,20 @@ body{
 .botao{
     background: white;
     color: black;
-    width: 60px;
+    width: auto;
     height: 40px;
     border: none;
     font-weight: bolder;
     display: block;
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background: white;
+    padding: 8px 5px;
+    font-weight: bolder;
+    font-size: small;
     margin: 20px;
 }
