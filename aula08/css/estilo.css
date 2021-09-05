@@ -1,0 +1,40 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+body {
+background-image: url("fundo.jpeg");
+}
+
+#quadro{
+width: 1000px;
+margin-top: 100px;
+padding: 20px;
+background-image: url("quadroNegro.jpeg");
+font-family: Arial, serif;
+color: #eee;
+font-size: 20px;
+border-style: solid;
+}
+
+#btnVoltar{
+	float: right;
+}
+
+.nome{
+	display: block;
+}
+
+#formulario{
+	margin-left: 100px;
+}
+
+#txt{
+	display: block;
+}
+
+.campo{
+	padding:5px;
+}
+
+

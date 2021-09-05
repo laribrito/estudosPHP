@@ -1,0 +1,17 @@
+body {
+background-image: url("fundo.jpeg");
+}
+
+div{
+margin-left: 25%;
+margin-top: 25%;
+height: 50%;
+width: 50%;
+padding: 20px;
+background-image: url("quadroNegro.jpeg");
+font-family: Verdana, Arial, serif;
+color: #eee;
+font-size: 16px;
+border-style: solid;
+}
+

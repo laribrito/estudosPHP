@@ -1,0 +1,129 @@
+	@font-face{
+    		font-family: Avenir;
+    		src: url(add/fonts/AvenirNextLTPro-Regular.otf)
+    	}
+     	@font-face{
+    		font-family: Square-Light;
+    		src: url(add/fonts/Cafe24Ohsquareairlight.ttf)
+    	}
+    	#divProjetos03{
+    		background-color: #f4f4f4;
+    		box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2);
+    		border-radius: 12px;
+    		border-color: #d64d3e;
+    		border-width: 2px;
+    	}
+    	#ancorasDiv3{
+    		background-color: #3333aa;
+    	}
+    	#imgSecondC{
+    		width: 237px;
+    		height: 168px;
+    	}
+    	#labelTerceiroC{
+    		color: black;
+    	}
+    	#imagemEquipe{
+    		border-radius: 50%;
+    		width: 50%;
+    		margin-left: 25%;
+    	}
+    	#nomeEquipe{
+    		text-align: center;
+    		margin-top: 5px;
+    	}
+    	#navbarPrincipal{
+    		background: #121821; 
+    		border-radius: 0 0 12px 12px; 
+    		box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2);
+    		height: 5em;
+    	}
+    	#rodape{
+    		background: #121821; 
+    		color: #EFEFEF;
+    		box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.2);
+    	}
+    	#campo{
+    		border: none;
+    		border-radius: 4px;
+    	}
+    	h1,h2,h3,h4,h5,h6{
+    		font-family: Square-Light;
+    	}
+    	p{
+    		font-family: Avenir;
+    	}
+    	body{
+    		background: #f1f1f1; 
+    		color: #001514;
+    	}
+    	.h-300p{
+    		height:500px;
+    	}
+    	.h-100p{
+    		height:100px;
+    	}
+    	.w-90{
+    		width: 98%;
+    	}
+    	.w-10{
+    		width:1%;
+    	}
+    	.fonte-branca{
+    		color: #EFEFEF;
+    	}
+    	.fonte-1{
+    		color: #5487a8;
+    	}
+    	.fonte-5{
+    		color: #8d5c9d;
+    	}
+    	.pt-6{
+    		padding-top: 6rem;
+    	}
+    	.bg-1{
+    		background-color: #5487a8;
+    	}
+    	.bg-2{
+    		background-color: #3333aa;
+    	}
+    	.bg-3{
+    		background-color: #D3BE36;
+    	}
+    	.bg-4{
+    		background-color: #d64d3e;
+    	}
+    	.bg-5{
+    		background-color: #8d5c9d;
+    	}
+    	.bg-b{
+    		background-color: #EFEFEF;
+    	}
+    	.bg-d{
+    		background: #161616;
+    	}
+    	.borda-1{
+    		border-style: solid;
+    		border-width:3px;
+    		border-color: #5487a8;
+    	}
+    	.borda-2{
+    		border-style: solid;
+    		border-width:3px;
+    		border-color: #3333aa;
+    	}
+    	.borda-3{
+    		border-style: solid;
+    		border-width:3px;
+    		border-color: #D3BE36;
+    	}
+    	.borda-4{
+    		border-style: solid;
+    		border-width:3px;
+    		border-color: #d64d3e;
+    	}
+    	.borda-5{
+    		border-style: solid;
+    		border-width:3px;
+    		border-color: #8d5c9d;
+    	}
