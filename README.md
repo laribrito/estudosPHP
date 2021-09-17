@@ -19,3 +19,5 @@ Gustavo Guanabara é um dos personagem mais importantes nos meus conhecimentos d
 * Aula 17 - Funções nativas para tratamento de string - parte 1
 * Aula 18 - Vetores e matrizes - parte 1
 * Aula 19 - Vetores e matrizes - parte 2
+
+*obs.: o curso disponibilizava uma pasta com modelos e formatação CSS, mas a pasta que está nesse repositório foi criada por mim*
