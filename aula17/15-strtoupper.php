@@ -6,9 +6,11 @@
 	<title></title>
 </head>
 <body>
-    <form method="post" action="exercicio03.php">
-
-        <input type="submit" value="Contar" class="botao">
-    </form>
+	<?php
+		/* 25 FUNÇÕES AO TODO */
+		/* strtoupper() - coloca o texto em caixa alta */
+		$nome = "Gustavo Guanabara";
+		echo "Seu nome é ". strtoupper($nome);
+	?>
 </body>
 </html>
